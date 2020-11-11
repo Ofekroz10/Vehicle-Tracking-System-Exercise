@@ -1,0 +1,1 @@
+{"version":3,"file":"FileDontExistError.js","sourceRoot":"","sources":["../../srcTS/Errors/FileDontExistError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA,0DAA2C;AAE3C,MAAqB,aAAc,SAAQ,KAAK;IAE5C;QACI,KAAK,CAAC,SAAS,CAAC,gBAAgB,CAAC,CAAC;QAClC,MAAM,CAAC,cAAc,CAAC,IAAI,EAAE,aAAa,CAAC,SAAS,CAAC,CAAC;IACzD,CAAC;CACJ;AAND,gCAMC"}

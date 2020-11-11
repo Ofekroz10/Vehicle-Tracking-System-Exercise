@@ -1,0 +1,1 @@
+{"version":3,"file":"BasicFactory.js","sourceRoot":"","sources":["../srcTS/BasicFactory.ts"],"names":[],"mappings":";AAAA;;;;;;EAME;;;AAEF,qDAAkD;AAElD,+CAA4C;AAE5C,+CAAyC;AAEzC,MAAa,YAAY;IAErB,qBAAqB;QACjB,OAAO,IAAI,+BAAc,EAAE,CAAC;IAChC,CAAC;IAED,kBAAkB;QACd,OAAO,IAAI,yBAAW,EAAE,CAAC;IAC7B,CAAC;IAED,kBAAkB;QACd,OAAO,IAAI,yBAAW,EAAE,CAAC;IAC7B,CAAC;CACJ;AAbD,oCAaC"}

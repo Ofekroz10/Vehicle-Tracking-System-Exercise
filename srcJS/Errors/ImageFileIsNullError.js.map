@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageFileIsNullError.js","sourceRoot":"","sources":["../../srcTS/Errors/ImageFileIsNullError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA,0DAA2C;AAE3C,MAAqB,eAAgB,SAAQ,KAAK;IAE9C;QACI,KAAK,CAAC,SAAS,CAAC,oBAAoB,CAAC,CAAC;QACtC,MAAM,CAAC,cAAc,CAAC,IAAI,EAAE,eAAe,CAAC,SAAS,CAAC,CAAC;IAC3D,CAAC;CACJ;AAND,kCAMC"}

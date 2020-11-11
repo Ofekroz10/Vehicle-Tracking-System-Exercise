@@ -1,0 +1,1 @@
+{"version":3,"file":"CannotDetectGpsError.js","sourceRoot":"","sources":["../../srcTS/Errors/CannotDetectGpsError.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA,0DAA2C;AAE3C,MAAqB,oBAAqB,SAAQ,KAAK;IAEnD;QACI,KAAK,CAAC,SAAS,CAAC,oBAAoB,CAAC,CAAC;QACtC,MAAM,CAAC,cAAc,CAAC,IAAI,EAAE,oBAAoB,CAAC,SAAS,CAAC,CAAC;IAChE,CAAC;CACJ;AAND,uCAMC"}
